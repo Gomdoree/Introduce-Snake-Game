@@ -31,7 +31,7 @@
 
 ## Why you should play the game?
 * You can experience about AI.
-* You can see how AI Snake search the path to go the food.
+* You can see how AI Snake search the path to go to the food.
 
 ## How to install it?
 * Installation Guide is in [here](https://github.com/Gomdoree/Snake/wiki/Technical-Report#2-install)
