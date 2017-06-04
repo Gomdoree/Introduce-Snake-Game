@@ -13,9 +13,11 @@
 
 ## What is Snake Game?
 
-- Goal : Fill All map with Snake's body
+- Goal    
+    * Fill All map with Snake's body
 
-- Lose condition : If, Snake's head colide with Snake's tail, Game Over!
+- Lose condition    
+    * If, Snake's head colide with Snake's tail, Game Over!
 
 ## Why you should play the game?
 
