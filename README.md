@@ -15,7 +15,7 @@
 ## What is Snake Game?
 
 ### Goal    
-- Fill All map with Snake's body    
+- Fill all map with Snake's body    
 
     ![](https://github.com/Gomdoree/SnakeGameAdvertise/blob/master/img/win_condition.png?raw=true)
 
@@ -25,8 +25,8 @@
     ![](https://github.com/Gomdoree/SnakeGameAdvertise/blob/master/img/lose_condition.png?raw=true)    
 
 ## Why you should play the game?
-* you can experience about AI.
-* you can see how AI Snake search the path to go the food.
+* You can experience about AI.
+* You can see how AI Snake search the path to go the food.
 
 ## How to install it?
 * Installation Guide is in [here](https://github.com/Gomdoree/Snake/wiki/Technical-Report#2-install)
