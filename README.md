@@ -5,13 +5,12 @@
 * Maybe you already saw Snake Game before. It is one of the most popular game in the world! You can play Snake Game in here!    
 
 * We provide Snake game with 2 mode : 
+    
     * **Manual mode**    
     * **AI based automatical mode**    
     
 * You can select and play the game mode in menu.
 * Enjoy the Snake Game!
-
-***
 
 ## What is Snake Game?
 
@@ -23,20 +22,14 @@
 - Lose condition    
 ![](https://github.com/Gomdoree/SnakeGameAdvertise/blob/master/img/lose_condition.png)    
     
-    * If, Snake's head colide with Snake's tail, Game Over!
-
-***
+    * Snake's head colide with Snake's tail, Game Over!
 
 ## Why you should play the game?
 * you can experience about AI.
 * you can see how AI Snake search the path to go the food.
 
-***
-
 ## How to install it?
 * Installation Guide is in [here](https://github.com/Gomdoree/Snake/wiki/Technical-Report#2-install)
-
-***
 
 ## Additional Information
 * You can see additional information in following links :    
