@@ -5,12 +5,14 @@
 * Maybe you already saw Snake Game before. It is one of the most popular game in the world!    
     
     You can play Snake Game in here!    
-
+    
+    
 * We provide Snake game with 2 mode : 
     
     * **Manual mode**    
     * **AI based automatical mode**    
-    
+        
+        
 * You can select and play the game mode in Menu.    
     
     Enjoy the Snake Game!
