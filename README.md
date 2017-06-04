@@ -33,5 +33,6 @@
 
 ## Additional Information
 * You can see additional information in following links :    
+    
     * [Snake Game Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game))   
     * [AI Algorithm](https://github.com/Gomdoree/Snake/wiki/Technical-Report#1-algorithm)
