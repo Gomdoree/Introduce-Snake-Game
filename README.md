@@ -18,13 +18,13 @@
 
 ![](https://github.com/Gomdoree/SnakeGameAdvertise/blob/master/img/win_condition.png?raw=true)
 
-    * Fill All map with Snake's body
+* Fill All map with Snake's body
 
 ### Lose condition
 
 ![](https://github.com/Gomdoree/SnakeGameAdvertise/blob/master/img/lose_condition.png?raw=true)    
 
-    * Snake's head colide with Snake's tail, Game Over!
+* Snake's head colide with Snake's tail, Game Over!
 
 ## Why you should play the game?
 * you can experience about AI.
