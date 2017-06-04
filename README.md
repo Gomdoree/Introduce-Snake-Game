@@ -2,7 +2,7 @@
 
 ![](https://github.com/Gomdoree/Snake/blob/master/img/demo_AI_search.gif)
 
-* Maybe you already saw Snake Game before. It is one of the most popular game in the world! Now, You can play Snake Game in here!
+* Maybe you already saw Snake Game before. It is one of the most popular game in the world! You can play Snake Game in here!
 * We provide Snake game with 2 mode : 
     * **Manual mode**    
     * **AI based automatical mode**    
