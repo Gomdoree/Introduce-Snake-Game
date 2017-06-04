@@ -2,9 +2,7 @@
 
 ![](https://github.com/Gomdoree/SnakeGameAdvertise/blob/master/img/demo_AI_search.gif?raw=true)
 
-* Maybe you already saw Snake Game before.    
-    
-    It is one of the most popular game in the world!    
+* Maybe you already saw Snake Game before. It is one of the most popular game in the world!    
     
     You can play Snake Game in here!    
 
