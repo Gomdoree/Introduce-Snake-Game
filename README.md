@@ -15,14 +15,14 @@
 ## What is Snake Game?
 
 ### Goal    
-* Fill All map with Snake's body    
+- Fill All map with Snake's body    
 
-![](https://github.com/Gomdoree/SnakeGameAdvertise/blob/master/img/win_condition.png?raw=true)
+    ![](https://github.com/Gomdoree/SnakeGameAdvertise/blob/master/img/win_condition.png?raw=true)
 
 ### Lose condition    
-* Snake's head colide with Snake's tail, Game Over!    
+- Snake's head colide with Snake's tail, Game Over!    
 
-![](https://github.com/Gomdoree/SnakeGameAdvertise/blob/master/img/lose_condition.png?raw=true)    
+    ![](https://github.com/Gomdoree/SnakeGameAdvertise/blob/master/img/lose_condition.png?raw=true)    
 
 ## Why you should play the game?
 * you can experience about AI.
