@@ -9,8 +9,9 @@
     * **Manual mode**    
     * **AI based automatical mode**    
     
-* You can select and play the game mode in menu.
-* Enjoy the Snake Game!
+* You can select and play the game mode in Menu.    
+    
+    Enjoy the Snake Game!
 
 ## What is Snake Game?
 
