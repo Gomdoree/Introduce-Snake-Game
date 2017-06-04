@@ -24,7 +24,13 @@
     * If, Snake's head colide with Snake's tail, Game Over!
 
 ## Why you should play the game?
-* 1. you can experience about AI.
-
+* you can experience about AI.
+* you can see how AI Snake search the path to go the food.
 
 ## How to install it?
+* Installation Guide is in [here](https://github.com/Gomdoree/Snake/wiki/Technical-Report#2-install)
+
+## Additional Information
+* You can see additional information in following links :    
+    * [Snake Game Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game))   
+    * [AI Algorithm](https://github.com/Gomdoree/Snake/wiki/Technical-Report#1-algorithm)
